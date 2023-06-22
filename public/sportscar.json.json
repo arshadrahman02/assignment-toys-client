@@ -1,0 +1,44 @@
+[
+  {
+    "first_name": "supra ",
+    "picture": "https://images.pexels.com/photos/97355/pexels-photo-97355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 100,
+    "rating": 5,
+    "status": "first"
+  },
+  {
+    "first_name": "mercedes",
+    "picture": "https://images.pexels.com/photos/92615/pexels-photo-92615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 200,
+    "rating": 4.5,
+    "status": "first"
+  },
+  {
+    "first_name": "Volvo",
+    "picture": "https://images.pexels.com/photos/92615/pexels-photo-92615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 200,
+    "rating": 4.0,
+    "status": "second"
+  },
+  {
+    "first_name": "Tata Truck",
+    "picture": "https://images.pexels.com/photos/92615/pexels-photo-92615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 200,
+    "rating": 3,
+    "status": "second"
+  },
+  {
+    "first_name": "Fire Truck",
+    "picture": "https://images.pexels.com/photos/92615/pexels-photo-92615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 200,
+    "rating": 4.5,
+    "status": "third"
+  },
+  {
+    "first_name": "Rescue Truck",
+    "picture": "https://images.pexels.com/photos/92615/pexels-photo-92615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 200,
+    "rating": 3.5,
+    "status": "third"
+  }
+]
